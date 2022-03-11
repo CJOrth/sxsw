@@ -1,17 +1,11 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Recommender Systems
 
----
-
 ## Materials We Provide
-
 
 | Topic | Description | Link |
 | --- | --- | --- |
 | Cosine Similarity | Slide Deck | [Link](./recommender.pdf)|
 | Lesson | Movie Recommender | [Link](./starter-code.ipynb)|
-| Hulu Case Study | Slide Deck | [Link](./rec-case-study.pdf)|
-
----
 
 ## Learning Objectives
 
@@ -21,29 +15,21 @@
 2. Explain the math behind recommendation engines
 3. Create an item-based movie recommender
 
-
----
-
 ## Lesson Outline
 
 > **Total Time: 90 mins**
 
 I. **Recommender Systems Walkthrough** (30 minutes total)
+
 - Cosine Similarity
 - Types of Recommender Systems
 - Movie recommender
 
 II. **Recommender Systems Hands-On** (40 minutes total)
+
 - Practice creating a user-based movie recommender
 
-III. **Hulu Case Study** (20 minutes total)
-- Jaccard Similarity
-- Hulu Recommendation System
-
----
-
 ## OPTIONAL: Resources for Practice and Learning
-
 
 - [Wharton Study of Recommender Systems](http://knowledge.wharton.upenn.edu/article/recommended-for-you-how-well-does-personalized-marketing-work/)
 - [Netflix Recommendations](https://www.rtinsights.com/netflix-recommendations-machine-learning-algorithms/)
